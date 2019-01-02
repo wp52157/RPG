@@ -1,0 +1,1 @@
+[{"questId":1,"questName":"杀5个盗贼","finishProgress":5,"nowNum":5,"nowStatus":1},{"questId":2,"questName":"杀3个哥布林","finishProgress":3,"nowNum":0,"nowStatus":1},{"questId":3,"questName":"杀2个采花贼","finishProgress":2,"nowNum":0,"nowStatus":1}]
